@@ -10,7 +10,7 @@ OWNER_ID = 5817544006
 
 SUDO_ID = [1669178360, 7642159940, 6128266949]
 
-MONGO_URI = ""
+MONGO_URI = "mongodb+srv://bikash:bikash@bikash.3jkvhp7.mongodb.net/?retryWrites=true&w=majority"
 
 DB_NAME = "Nullcrow"
 
