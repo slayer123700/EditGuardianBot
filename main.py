@@ -4,7 +4,7 @@ import re
 import asyncio
 import time
 from random import choice
-from nullcrow import *
+from Null import *
 from telegram import Update, Bot
 from pyrogram import Client, filters
 from pyrogram.types import Message
