@@ -5,11 +5,11 @@
   "keywords": ["telegram", "bot", "python"],
   "env": {
     "TELEGRAM_TOKEN": {
-      "description": "Telegram bot token gen from @BotFather",
+      "description": "7671461535:AAGOPau3s4b6g2pbJm5sRz2iqbhN0K5tfbA",
       "required": true
     },
     "OWNER_ID": {
-      "description": "Your Telegram user ID (owner)",
+      "description": "6018803920",
       "required": true
     }
   },
