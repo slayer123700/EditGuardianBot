@@ -1,6 +1,6 @@
-API_ID = "4014305"
+API_ID = "26249286"
 
-API_HASH = "b0cb9e17b2b8bcde3be7161c8bfa6013"
+API_HASH = "4e3bf0b014fda4ac752e8f4ab854279b"
 
 # Telegram bot token
 TELEGRAM_TOKEN = "7671461535:AAGOPau3s4b6g2pbJm5sRz2iqbhN0K5tfbA"
@@ -10,9 +10,9 @@ OWNER_ID = 6018803920
 
 SUDO_ID = [6018803920]
 
-MONGO_URI = "mongodb+srv://bikash:bikash@bikash.3jkvhp7.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URI = "mongodb+srv://musicbotxd:musicbotxd@cluster0.6thyk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
-DB_NAME = "Nullcrow"
+DB_NAME = "musicbot"
 
 LOGGER = True
 
